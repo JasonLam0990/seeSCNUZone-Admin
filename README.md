@@ -13,3 +13,7 @@ SCNUZone后台管理【文件已加密】
 2.实现了查看反馈并删除的逻辑<br>
 3.实现了查看添加组队板块申请并删除 & 添加新组队板块 的逻辑<br>
 4.实现了修改和删除组队板块的逻辑<br>
+
+<center>
+ <img src="/images/index.jpg" margin=20% width=70% />
+</center>
