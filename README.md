@@ -15,5 +15,5 @@ SCNUZone后台管理【文件已加密】
 4.实现了修改和删除组队板块的逻辑<br>
 
 <center>
- <img src="/images/index.jpg" margin=20% width=70% />
+ <img src="/images/index.jpg" margin=20% width=50% />
 </center>
